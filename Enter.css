@@ -1,0 +1,39 @@
+.child{
+    position:absolute;
+    top:7%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.child1{
+    position:absolute;
+    top:96%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.child2{
+    position:absolute;
+    top:40%;
+    left:46%;
+    transform:translate(-50%,-50%);
+}
+.child3{
+    position:absolute;
+    top:57%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.child4{
+    border: black solid;
+    position:absolute;
+    top:78%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+.child3 {border-radius: 15px;}
+.next:hover {
+    background-color: black;
+    color:white;
+  }
+  .next{
+    background-color:white;
+  }
